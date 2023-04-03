@@ -128,7 +128,7 @@
 }
 
 .boton-articulo:hover .boton-icono {
-    margin-left: calc(100% - 50px);
+    margin-left: calc(70% + 25px);
     opacity: 1;
     transition: .3s ease-in-out;
 }
